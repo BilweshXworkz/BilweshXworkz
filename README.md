@@ -2,23 +2,20 @@
 <h3 align="center">A passionate java developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3492228fd9a698d24cbe02d7e013abc0fe70eebeda013e47dab443f61efe5013/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CharanByte&label=Profile%20views&color=0e75b6&style=flat" alt="charanbyte" /> </p>
-
-<p align="left"> <a href="https://twitter.com/charanreddyjv" target="blank"><img src="https://img.shields.io/twitter/follow/charanreddyjv?logo=twitter&style=for-the-badge" alt="charanreddyjv" /></a> </p>
 
 - 🌱 I’m currently learning *Java full stack development*
 
 - 💬 Ask me about *Java,Servlets,Mysql,Jdbc,HTML,CSS*
 
-- 📫 How to reach me *charan7812@gmail.com*
+- 📫 How to reach me *bilweshbinay1025@gmail.com*
 
 - ⚡ Fun fact *I'm fluent in both Java and Coffee ☕ – one is for coding, the other fuels the coding!*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/charanreddyjv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="charanreddyjv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/charanjv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charanjv" height="30" width="40" /></a>
-<a href="https://instagram.com/charan__jv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="charan_jv" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/charanreddyjv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="charanreddyjv" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/y-p-bilwesh-2346151a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charanjv" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bilwesh25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="charan_jv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
