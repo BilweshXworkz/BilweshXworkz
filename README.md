@@ -9,7 +9,7 @@
 
 - 📫 How to reach me *bilweshbinay1025@gmail.com*
 
-- ⚡ Fun fact *I'm fluent in both Java and Coffee ☕ – one is for coding, the other fuels the coding!*
+- 🔥 Fun fact: Spring is not just a season; it's how I build everything cool. 🌸💻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
